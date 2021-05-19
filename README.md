@@ -11,7 +11,7 @@
 - AWS - For creating EC2 Instance and Deploying all code to that instance.
 - HTML - For Creating Template for Website.
 
-## Steps
+## Steps:
 - First install NLTK and Flask on your local machine.
 - Create a python code for text summarization and flask api.
 - Create an website using html.
