@@ -11,8 +11,9 @@
 - AWS - For creating EC2 Instance and Deploying all code to that instance.
 - HTML - For Creating Template for Website.
 
-
+#### Include **index.html** in templates folder. 
 ### **Note :** You can get more details about the project from report that included in the github repository. 
+
 
 
 
