@@ -11,6 +11,17 @@
 - AWS - For creating EC2 Instance and Deploying all code to that instance.
 - HTML - For Creating Template for Website.
 
+## Steps
+- First install NLTK and Flask on your local machine.
+- Create a python code for text summarization and flask api.
+- Create an website using html.
+- Sign in to the aws console and create a new EC2 instance.
+- Install putty and filezilla on your local machine.
+- Using puttyGen convert a key from .ppm to .ppk.
+- Connect to the server through Putty and transer all files to the server using filezilla.
+- Install all required library and packages to the server through putty using command promt.
+- Finaly, run the python script, flask app and website to the server.  
+
 #### Include **index.html** in templates folder. 
 ### **Note :** You can get more details about the project from report that included in the github repository. 
 
